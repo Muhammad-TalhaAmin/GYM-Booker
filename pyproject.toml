@@ -1,0 +1,7 @@
+[project]
+name = "day49-workoutbooker"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "selenium>=4.44.0",
+]
